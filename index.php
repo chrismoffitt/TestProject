@@ -1,10 +1,16 @@
-<center><b> " INDEX Page " </b> </center>
-<!doctype css>
+<doctype css>
 
-<!doctype html>
+
+
+<center><b> " INDEX Page " </b> </center>
+
 <html>
 <head>
-	<!-- java script start -->
+	
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+
+<!-- java script start -->
 <meta charset="UTF-8">
 <title>My Web Page</title>
 <script>
